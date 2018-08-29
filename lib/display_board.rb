@@ -10,3 +10,5 @@ def display_board (board = [" O ", " X ", "   ", "   ", " X ", "   ", " X ", " O
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 
 end
+
+display_board
